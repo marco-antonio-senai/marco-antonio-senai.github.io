@@ -1,0 +1,110 @@
+url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Luckiest+Guy&display=swap');
+
+
+/*Cor de fundo do corpo da página e cor de texto*/
+body {
+    color: deepskyblue;
+    background-color: deeppink;
+    text-shadow: 2px 2px 5px dimgray;
+ }
+
+ h1 {
+    color: floralwhite;
+    font-family: Arial, sans-serif;
+    font-size: 400%;   
+ }
+  
+ /*Seletor h2*/
+ h2 { /*Propriedades do h2*/
+    color: yellow;
+    font-family: serif;
+    font-size: 150%;
+ }
+ 
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Luckiest+Guy&display=swap');
+ 
+ body {
+    color: greenyellow;
+    background-color: black;
+    text-shadow: 2px 2px 5px whitesmoke;
+ }
+  
+ h1 {
+    color: floralwhite;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 400%;
+    text-shadow: 2px 2px 5px yellow;
+    text-align: center;
+ }
+  
+ /*Seletor h2*/
+ h2 { /*Propriedades do h2*/
+    font-family: 'Dancing Script', cursive;
+    font-size: 150%;
+    text-align: center;
+ }
+  
+  
+ img {
+    height: 200px;
+    width: 200px;   
+    margin-left: 210px;
+    box-shadow: 5px 5px 10px whitesmoke;
+    border-radius: 20px;
+ }
+ 
+ 
+ <imgid="imgPrincipal"
+
+
+ <img src="imagens/imagem-html-css-js.jpg" alt="html-css-js" height="350" width="450" />
+<br> 
+<img class="logo"
+<img src="imagens/image-html.png" alt="html" height="250" width="250" />
+/>
+<img class="logo"
+<img src="imagens/image-css.png" alt="css" height="250" width="250" />
+/>
+<img class= "logo"
+<img src="imagens/image-js.png" alt="js" height="250" width="250" />
+/>
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Luckiest+Guy&display=swap');
+/*Cor de fundo do corpo da página e cor de texto*/
+body {
+   color: greenyellow;
+   background-color: black;
+   text-shadow: 2px 2px 5px whitesmoke;
+}
+ 
+h1 {
+   color: floralwhite;
+   font-family: 'Luckiest Guy', cursive;
+   font-size: 400%;
+   text-shadow: 2px 2px 5px yellow;
+   text-align: center;
+}
+ 
+/*Seletor h2*/
+h2 { /*Propriedades do h2*/
+   font-family: 'Dancing Script', cursive;
+   font-size: 150%;
+   text-align: center;
+}
+ 
+/*Classe usa-se o PONTO*/
+img.logo {
+   height: 200px;
+   width: 200px;   
+   margin-left: 170px;
+   box-shadow: 5px 5px 10px whitesmoke;
+   border-radius: 20px;
+}
+/*Identificador usa-se a HASH*/
+img#imgPrincipal {
+   display: block;
+   margin:0 auto;
+}
+
+
+
+
