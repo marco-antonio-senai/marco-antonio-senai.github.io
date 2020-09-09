@@ -1,0 +1,56 @@
+body{
+  background-color: aquamarine;
+  color: black;
+}
+
+li a  {
+    color: rgb(255, 0, 0);
+    text-decoration: none; 
+       
+}
+
+li a:hover {
+    color: rgb(138, 1, 1);
+}
+
+li a :active {
+    color: cornsilk;
+}
+
+footer h2 a {
+    border: 2px ridge rgb(157, 157, 255);
+    background-color: blueviolet ;
+    color: crimson;
+    padding: 5px ;
+    border-radius: 3px;
+}
+
+table#tabela01{
+    border: 2px solid white;
+}
+
+table#tabela01{
+    border:3px solid cornsilk;
+    border-collapse: collapse;
+    background-color: cyan;
+    color: black;
+}
+
+#tabela01 tr:nth-child(even) {
+    background-color: coral;
+}
+
+table#tabela02 {
+    border:1px solid rgb(255, 204, 0);
+    
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 7, 7);
+}
+
+#tabela02 tr:nth-child(even) {
+    background-color: rgb(224, 224, 224);
+}
+
+#tabela02 td , #tabela02 tr {
+    border:1px solid rgb(255, 204, 0);
+}
