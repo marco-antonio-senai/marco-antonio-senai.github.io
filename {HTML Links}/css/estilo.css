@@ -1,0 +1,26 @@
+
+body {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.nada{
+  background-color: black;
+}
+
+.coisa {
+    background-color: black;
+}
+
+img {
+    max-width: 50%;
+    height: 400px ;
+}
