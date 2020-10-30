@@ -21,6 +21,7 @@ body {
 }
 
 img {
-    max-width: 50%;
+    max-width: 40%;
     height: 400px ;
+    background-color: black;
 }

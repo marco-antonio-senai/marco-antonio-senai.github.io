@@ -1,6 +1,10 @@
-var count = 0;
+let count = 1;
         count++;
-
-        if(count == 10){
-            alert("10 segundos");
+ 
+        if(count += 10) {
+alert('Obrigado por entrar no meu Website!!');
         }
+         
+            
+        
+        
